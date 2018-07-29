@@ -10,3 +10,8 @@ Parallax is an effect where the background content or image in this case, is mov
 ### 29 July 2018
 #### 3D HOVER PLANE EFFECT
 The element seems to be moving back and forth while hovering over the screen.
+
+## DAY 3
+### 30 July 2018
+#### PAPER CUT-OUT EFFECT
+Text effect which appears like a paper cut-out.
