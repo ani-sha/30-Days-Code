@@ -15,3 +15,8 @@ The element seems to be moving back and forth while hovering over the screen.
 ### 30 July 2018
 #### PAPER CUT-OUT EFFECT
 Text effect which appears like a paper cut-out.
+
+## DAY 4
+### 31 July 2018
+#### TEXT CLIPPING MASK
+Or knockout text.
