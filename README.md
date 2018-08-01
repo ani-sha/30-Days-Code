@@ -20,3 +20,8 @@ Text effect which appears like a paper cut-out.
 ### 31 July 2018
 #### TEXT CLIPPING MASK
 Or knockout text.
+
+## DAY 5
+### 1 August 2018
+#### TWINKLING STARS
+Stars twinkling in the background using jQuery.
