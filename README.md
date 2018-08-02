@@ -25,3 +25,8 @@ Or knockout text.
 ### 1 August 2018
 #### TWINKLING STARS
 Stars twinkling in the background using jQuery.
+
+## DAY 6
+### 2 August 2018
+#### 3D TEXT
+Typography effect to give text a 3rd dimension using multiple shadows. Also, how to outline text in a similar fashion.
