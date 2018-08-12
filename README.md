@@ -60,3 +60,23 @@ A lightweight JavaScript library by Vincent Garreau for creating particles.
 ### 8 August 2018
 #### HTML5 DOM INPUT COLOR
 Color picker input object.
+
+## DAY 13
+### 9 August 2018
+#### BASIC CALCULATOR
+Basic calculator in JavaScript.
+
+## DAY 14
+### 10 August 2018
+#### SKETCHPAD
+A very very very basic sketchpad.
+
+## DAY 15
+### 11 August 2018
+#### GLITCH
+Glitchy text using css animations.
+
+## DAY 16
+### 12 August 2018
+#### POPUP
+Popup on button click.
