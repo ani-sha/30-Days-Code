@@ -80,3 +80,73 @@ Glitchy text using css animations.
 ### 12 August 2018
 #### POPUP
 Popup on button click.
+
+## DAY 17
+### 13 August 2018
+#### BLUR
+Text blur effect using text-shadow property.
+
+## DAY 18
+### 14 August 2018
+#### DROPDOWN MENU
+Menu drops down on button click.
+
+## DAY 19
+### 15 August 2018
+#### GOOGLE CHARTS
+Interactive charts and data tools.
+
+## DAY 20
+### 16 August 2018
+#### TOOLTIP
+The Tooltip plugin is small pop-up box that appears when the user moves the mouse pointer over an element.
+
+## DAY 21
+### 17 August 2018
+#### TRIANGLIFY.JS
+Algorithmically generated triangle art.
+
+## DAY 22
+### 18 August 2018
+#### IMAGE MAGNIFICATION
+Image magnification on hover.
+
+## DAY 23
+### 19 August 2018
+#### ELEGANT SHADOW
+Text shadow effect.
+
+## DAY 24
+### 20 August 2018
+#### CARD FOLD DOWN
+Card Fold Down Effect with Dynamic Height.
+
+## DAY 25
+### 21 August 2018
+#### TABS
+Tabs are a great way of grouping lots of content into a very small space.
+
+## DAY 26
+### 22 August 2018
+#### PRELOADER
+Page preloader icon.
+
+## DAY 27
+### 23 August 2018
+#### ACCORDION
+Accordions are useful when you want to toggle between hiding and showing large amount of content.
+
+## DAY 28
+### 24 August 2018
+#### SIDE NAVIGATION BAR
+Navigation bar which slides in from left.
+
+## DAY 29
+### 25 August 2018
+#### ANIMATED SIGNATURE
+Animating Your Own SVG Signature.
+
+## DAY 30
+### 26 August 2018
+#### ANIMATED CUBE
+Three.js is a lightweight cross-browser JavaScript library/API used to create and display animated 3D computer graphics on a Web browser.
